@@ -15,6 +15,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textAlignment="center"
         android:hint="EDIT BOX"/>
     <Button
         android:layout_width="match_parent"
@@ -23,6 +24,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textAlignment="center"
         android:hint="EDIT BOX2"/>
 
 </LinearLayout>
